@@ -1,6 +1,5 @@
-# MERN Stack [YouTube Clone](https://smfils1-youtube-clone.herokuapp.com)
+# MERN Stack [Video streaming application](https://smfils1-youtube-clone.herokuapp.com)
 
-This is a YouTube Clone that implements the main features of [YouTube](https://www.youtube.com/) **solely intended for educational purposes** and is created under **fair use**.
 
 ##### \* **Video Uploads are limited to 25 MB.**
 
